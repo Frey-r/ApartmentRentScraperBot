@@ -23,14 +23,14 @@ This scraper is designed to:
 ## Installation
 
 1. Clone this repository
-2. Install required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Make sure you have Firefox browser installed
-4. The Selenium WebDriver for Firefox will be automatically installed with selenium
+2. Create venv:
+   `python -m venv venv`
+3. Activate venv:
+   `.\venv\Scripts\activate`
+4. Install required packages:
+   `pip install -r requirements.txt`
+5. Make sure you have Firefox browser installed
+6. The Selenium WebDriver for Firefox will be automatically installed with selenium
 
 ## Project Structure
 
