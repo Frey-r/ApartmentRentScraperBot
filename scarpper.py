@@ -134,7 +134,5 @@ if __name__ == '__main__':
     for url in URLS:
         scrap(url,isToExcel = isToExcel)
         print(f'Scrapped {url}')
-    print('waiting for the driver to close')
+    print('Saving results...')
     DRIVER.quit()
-    print('Done')
-    
