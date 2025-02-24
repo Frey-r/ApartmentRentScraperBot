@@ -34,6 +34,7 @@ This scraper is designed to:
 
 ## Project Structure
 
+```
 Scrapper arriendo/
 ├── launcher.bat*     # Recomended way to execute, look Usage section for more information
 ├── scarpper.py       # Main scraper script
@@ -41,6 +42,7 @@ Scrapper arriendo/
 └── sql/
     ├── bdd.db       # SQLite database (created on first run)
     └── create.sql   # Database schema
+```
 
 ## Database Schema
 
