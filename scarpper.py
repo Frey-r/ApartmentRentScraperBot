@@ -18,7 +18,9 @@ URLS = [
     f'https://www.portalinmobiliario.com/arriendo/departamento/_DisplayType_M_OrderId_PRICE_PriceRange_{min_price}CLP-{max_price}CLP_NoIndex_True_item*location_lat:-33.44989281004803*-33.38426922283824,lon:-70.62558878061164*-70.49255121347296',
     f'https://www.portalinmobiliario.com/arriendo/departamento/_DisplayType_M_OrderId_PRICE_PriceRange_{min_price}CLP-{max_price}CLP_NoIndex_True_item*location_lat:-33.464620342562576*-33.448221880457425,lon:-70.58875006050337*-70.5554906687187',
     f'https://www.portalinmobiliario.com/arriendo/departamento/_DisplayType_M_OrderId_PRICE_PriceRange_{min_price}CLP-{max_price}CLP_NoIndex_True_item*location_lat:-33.48058616976933*-33.464190728099474,lon:-70.58943670601118*-70.55617731422652',
-    f'https://www.portalinmobiliario.com/arriendo/departamento/_DisplayType_M_OrderId_PRICE_PriceRange_{min_price}CLP-{max_price}CLP_NoIndex_True_item*location_lat:-33.48986677432309*-33.48781773332511,lon:-70.65524582964187*-70.65108840566879'
+    f'https://www.portalinmobiliario.com/arriendo/departamento/_DisplayType_M_OrderId_PRICE_PriceRange_{min_price}CLP-{max_price}CLP_NoIndex_True_item*location_lat:-33.48986677432309*-33.48781773332511,lon:-70.65524582964187*-70.65108840566879',
+    f'https://www.portalinmobiliario.com/arriendo/departamento/_DisplayType_M_OrderId_PRICE_PriceRange_{min_price}CLP-{max_price}CLP_NoIndex_True_item*location_lat:-33.45708757459393*-33.45298789363697,lon:-70.66527143679895*-70.65695658885278',
+    f'https://www.portalinmobiliario.com/arriendo/departamento/_DisplayType_M_OrderId_PRICE_PriceRange_{min_price}CLP-{max_price}_NoIndex_True_item*location_lat:-33.444928523279955*-33.43672781799603,lon:-70.64727335426328*-70.63064365837094'
 ]
 
 def check_table():
